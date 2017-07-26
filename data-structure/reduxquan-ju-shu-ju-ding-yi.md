@@ -11,6 +11,7 @@
 | projectSelect | core/store.js | 项目选择的数据 |
 | alarmManage | core/store.js | 警报管理的数据 |
 | cloudData | core/store.js | 云数据的数据 |
+| originData | core/store.js | 原始数据的数据 |
 | projectManage | core/store.js | 项目管理的数据 |
 | userManage | core/store.js | 用户管理的数据 |
 
